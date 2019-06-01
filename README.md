@@ -8,8 +8,7 @@ FontAwesome 5.8.2 for Axure 9 字体图标库。使用了免费版字体，共�
 * 所有图标均使用了字体样式，您可以通过修改字体样式来更新字体图标。
 
 ## 🛬 下载地址
-* 下载 [FontAwesome字体文件](./FontAwesome_Free_5.8.2/)；
-* 或 [FontAwesome字体官网](https://fontawesome.com/) 下载；
+* 下载 [FontAwesome字体文件](./FontAwesome_Free_5.8.2/) 或 [FontAwesome字体官网](https://fontawesome.com/) 下载；
 * 下载 [Axure 9 组件库.rplib](./Axure9_Library_5.8.2/)。
 
 ## 🎊 如何在 Axure 中使用此图标库
