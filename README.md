@@ -16,9 +16,9 @@ FontAwesome 5.8.2 for Axure 9 字体图标库。使用了免费版字体，共�
 6. 添加完成后即可发布原型至Html。
 
 ## 🏄‍♂️ 示例
-![fontawesome-axure-library-5](./Image/solid.png)
-![fontawesome-axure-library-5](./Image/brands.png)
-![fontawesome-axure-library-5](./Image/regular.png)
+![fontawesome-axure-library-5](./Images/solid.png)
+![fontawesome-axure-library-5](./Images/brands.png)
+![fontawesome-axure-library-5](./Images/regular.png)
 
 ## 🍻 Enjoy~
 祝使用愉快，如有任何问题请留言，或访问个人网站：https://www.y3pm.com
