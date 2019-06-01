@@ -8,7 +8,7 @@ FontAwesome 5.8.2 for Axure 9 字体图标库。使用了免费版字体，共�
 * 所有图标均使用了字体样式，您可以通过修改字体样式来更新字体图标；
 
 ## 🎊 如何在 Axure 中使用此图标库
-1. 下载 [FontAwesome字体](./Fontawesome-free-5.8.2/) 并安装，将对应的 [.rplib](./Axure9_library5.8.2/) 文件添加到 Axure；
+1. 下载 [FontAwesome字体](./FontAwesome_Free_5.8.2/) 并安装，将对应的 [.rplib](./Axure9_Library_5.8.2/) 文件添加到 Axure；
 2. 在您的原型文件中使用此字体图标库。提示：Regular版本，是有两种字重的；
 3. 点击 发布 > 生成 HTML 文档, 在弹窗中点击 “Font” 字体，点击添加“+ Add Font”按钮；
 4. 在 Font Lable 一栏输入字体标题，如：FontAwesome，并选中 “link to .css”；
@@ -16,9 +16,9 @@ FontAwesome 5.8.2 for Axure 9 字体图标库。使用了免费版字体，共�
 6. 添加完成后即可发布原型至Html。
 
 ## 🏄‍♂️ 示例
-![fontawesome-axure-library-5](./image/solid.png)
-![fontawesome-axure-library-5](./image/brands.png)
-![fontawesome-axure-library-5](./image/regular.png)
+![fontawesome-axure-library-5](./Image/solid.png)
+![fontawesome-axure-library-5](./Image/brands.png)
+![fontawesome-axure-library-5](./Image/regular.png)
 
 ## 🍻 Enjoy~
 祝使用愉快，如有任何问题请留言，或访问个人网站：https://www.y3pm.com
