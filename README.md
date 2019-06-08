@@ -1,4 +1,4 @@
-# 😁 fontawesome-axure-library-5
+# 😁 FontAwesome-Axure-Library-5
 FontAwesome 5.8.2 for Axure 9 字体图标库。使用了免费版字体，共包含1515个图标。
 根据 [FontAwesome](https://fontawesome.com/) 上的分类，共包含Solid、Regular以及Brands三款字体。相应的本组件库也分成了三个部分。
 
